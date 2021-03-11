@@ -24,6 +24,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
 
+
     # Third-party
     'allauth',
     'allauth.account',
@@ -33,6 +34,7 @@ INSTALLED_APPS = [
     # Local
     'accounts',
     'pages',
+    'snacks',
 ]
 
 # MIDDLEWARE
